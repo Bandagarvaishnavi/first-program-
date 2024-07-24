@@ -1,0 +1,9 @@
+
+s="apple"
+for c in s:
+    print(c,'->',ord(c)-96)
+
+
+arr=[97,99]
+for i in arr:
+    print(i,'->',chr(i))'''
